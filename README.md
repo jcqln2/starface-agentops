@@ -2,7 +2,7 @@
 
 a starface customer chat agent that runs behind guardrails you can actually see, plus an agent dashboard that shows what it did, why, and whether customers clicked.
 the model is the easy part; this demo is about the ops layer: routing, guardrails, evals, engagement and click-through, all observable.
-built by jacqueline robinson (toronto · typescript + java) as a pitch for an agentops engineer role at starface.
+
 
 ![chat](screenshots/chat.png)
 
@@ -55,12 +55,12 @@ env vars (all optional, see `.env.example`):
 
 | var | effect |
 | --- | --- |
-| `OPENAI_API_KEY` | use openai instead of the built-in mock |
+| `OPENAI_API_KEY` | private key|
 | `OPENAI_MODEL` | defaults to `gpt-4o-mini` |
 | `MOCK_LATENCY` | `0` skips the simulated mock latency |
 | `LOG_JSONL` | `0` keeps logs in memory only (no `data/*.jsonl`) |
 
-with no key the app runs fully in **mock mode**: deterministic replies written like a knowledgeable skincare friend, with every fact taken from `data/catalog.json`. three intents deliberately produce risky drafts (a cure claim plus a diagnosis, a made-up ingredient, shaming copy) so the guardrails visibly fire, and the post-guardrail replies are tested to still read cleanly.
+
 
 ### the catalogue
 
@@ -106,4 +106,3 @@ an impression is a card served with a reply; a click is a tap routed through `/a
 - ingredients come from description text, not shopify's full ingredient lists.
 - the router is keyword-based; an llm or embedding classifier with a confidence threshold is the obvious next step.
 - impressions are counted when a card is served, not when it scrolls into view.
-- the anthropic provider is wired into the interface but hasn't been run against a live key.
