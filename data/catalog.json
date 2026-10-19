@@ -1,0 +1,655 @@
+{
+  "source": "https://starface.world/products.json?limit=250",
+  "fetchedAt": "2026-10-19T18:18:54.607Z",
+  "note": "keyIngredients = known ingredient names found verbatim in the product description. empty = unknown.",
+  "products": [
+    {
+      "name": "big hello kitty® mystery compact",
+      "handle": "sanrio",
+      "type": "",
+      "shortDescription": "surprises are better with friends! hello kitty® x starface is back, this time in a special-edition blind box.",
+      "description": "surprises are better with friends! hello kitty® x starface is back, this time in a special-edition blind box. inside you’ll find a refillable compact and 32 matching hydrocolloid pimple patches in one of four unique hello kitty® designs. these cute patches are made with 100% hydrocolloid, a material that’s clinically proven to absorb fluid and help reduce redness. your mystery box could come with… big flower hello kitty® : 32 hydrocolloid patches ft. a pink flower headband big pink hello kitty® : 32 hydrocolloid patches ft. a light pink bow big blue hello kitty® : 32 hydrocolloid patches ft. a light blue bow big red hello kitty® : 32 hydrocolloid patches ft. lil red heart clips quantity: 1 mystery compact + 32 limited-edition patches plz note: order limit 10 compacts. all sales final.",
+      "keyIngredients": [
+        "hydrocolloid"
+      ],
+      "price": "$16.99",
+      "url": "https://starface.world/products/sanrio",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-hello-kitty-mystery-compact-1.25_8cdaa812-8466-433b-92d2-2c44dcd738a4.gif?width=160"
+    },
+    {
+      "name": "star balm® bday cake",
+      "handle": "star-balm-bday-cake",
+      "type": "",
+      "shortDescription": "saved you a slice of bday cake! this delish limited-edition star balm® has the same cushiony formula you know and love, now with a special bday twist.",
+      "description": "saved you a slice of bday cake! this delish limited-edition star balm® has the same cushiony formula you know and love, now with a special bday twist. have fun with sweet, fluffy, and frosted bday cake , while it’s still here. star balm is clinically proven to moisturize lips in just 15 minutes and deliver long-lasting hydration for up to 8 hours.* a cozy combo of shea butter, cocoa butter, and coconut oil helps soothe chapped lips and minimize dryness . like a hug for your lips, these silky balms improve your moisture barrier with every swipe. explore the star balm collection and find your fav flavor… or two, or three, or more! *based on a clinical instrumentation study with 32 subjects",
+      "keyIngredients": [
+        "shea butter",
+        "cocoa butter",
+        "coconut oil"
+      ],
+      "price": "$6.99",
+      "url": "https://starface.world/products/star-balm-bday-cake",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-bday-cake-lip-balm.png?width=160"
+    },
+    {
+      "name": "star strips® + salicylic acid",
+      "handle": "star-strips-salicylic-acid",
+      "type": "",
+      "shortDescription": "star strips® + salicylic acid are extra strength nose strips that instantly remove blackheads and unclog pores by lifting away excess oil, dirt, and buildup for visibly smoother skin.",
+      "description": "star strips® + salicylic acid are extra strength nose strips that instantly remove blackheads and unclog pores by lifting away excess oil, dirt, and buildup for visibly smoother skin. avail in four blue designs so you can feel cute clearing pores. salicylic acid, a beta hydroxy acid, helps unclog pores and exfoliate skin by dissolving dead skin cells and oil. a soothing combo of aloe vera and witch hazel leaves skin feeling soft, happy, and fresh. for best results, use these cuties once a week to help visibly reduce the appearance of pores after use. have fun caring for skin with the new super sal acid bundle , avail for a limited time only!",
+      "keyIngredients": [
+        "salicylic acid",
+        "aloe vera",
+        "witch hazel"
+      ],
+      "price": "$7.99",
+      "url": "https://starface.world/products/star-strips-salicylic-acid",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-star-strips-salicylic-acid-pore-clearing-nose-strips.png?width=160"
+    },
+    {
+      "name": "hydro-star® microdarts + salicylic acid",
+      "handle": "microdarts",
+      "type": "",
+      "shortDescription": "hydro-star® microdarts + salicylic acid are clear hydrocolloid patches with tiny, self-dissolving microdarts that dive deep into skin to reach early-stage pimples with key ingredients.",
+      "description": "hydro-star® microdarts + salicylic acid are clear hydrocolloid patches with tiny, self-dissolving microdarts that dive deep into skin to reach early-stage pimples with key ingredients. calming niacinamide and salicylic acid, a powerful exfoliant, work together to reduce redness, soothe irritation, and help shrink spots before they come to the surface. when you feel a spot brewing, put a star on your pimple to send powerful ingredients into the skin and keep your spot protected all day long. an invisible finish and rounded edges blend into skin for subtle coverage anytime, anywhere. quantity: 12 stars",
+      "keyIngredients": [
+        "hydrocolloid",
+        "salicylic acid",
+        "niacinamide"
+      ],
+      "price": "$12.99",
+      "url": "https://starface.world/products/microdarts",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-hydro-star-microdart-pimple-patches-salicylic-acid.png?width=160"
+    },
+    {
+      "name": "star balm® bubblegum bliss",
+      "handle": "star-balm-bubblegum-bliss",
+      "type": "",
+      "shortDescription": "there’s nothing sweeter than new star balm® flavors! feel cute with classic, sweet, and fun bubblegum bliss , avail for a limited time.",
+      "description": "there’s nothing sweeter than new star balm® flavors! feel cute with classic, sweet, and fun bubblegum bliss , avail for a limited time. star balm is clinically proven to moisturize lips in just 15 minutes and deliver long-lasting hydration for up to 8 hours.* a cozy combo of shea butter, cocoa butter, and coconut oil helps soothe chapped lips and minimize dryness . like a hug for your lips, these silky balms improve your moisture barrier with every swipe. grab the sugar rush bundle for extra fun with limited-edition favs! *based on a clinical instrumentation study with 32 subjects",
+      "keyIngredients": [
+        "shea butter",
+        "cocoa butter",
+        "coconut oil"
+      ],
+      "price": "$6.99",
+      "url": "https://starface.world/products/star-balm-bubblegum-bliss",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-bubblegum-bliss-lip-balm.png?width=160"
+    },
+    {
+      "name": "star balm® super grape",
+      "handle": "star-balm-super-grape",
+      "type": "",
+      "shortDescription": "there’s nothing sweeter than new star balm® flavors! have fun with fresh, fizzy, and bright super grape , avail for a limited time.",
+      "description": "there’s nothing sweeter than new star balm® flavors! have fun with fresh, fizzy, and bright super grape , avail for a limited time. star balm is clinically proven to moisturize lips in just 15 minutes and deliver long-lasting hydration for up to 8 hours.* a cozy combo of shea butter, cocoa butter, and coconut oil helps soothe chapped lips and minimize dryness . like a hug for your lips, these silky balms improve your moisture barrier with every swipe. grab the sugar rush bundle for extra fun with limited-edition favs! *based on a clinical instrumentation study with 32 subjects",
+      "keyIngredients": [
+        "shea butter",
+        "cocoa butter",
+        "coconut oil"
+      ],
+      "price": "$6.99",
+      "url": "https://starface.world/products/star-balm-super-grape",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-super-grape-lip-balm.png?width=160"
+    },
+    {
+      "name": "star balm® starfruit",
+      "handle": "star-balm-starfruit",
+      "type": "Lip Balm",
+      "shortDescription": "your new bff is here! star balm ® is an ultra-cushiony lip balm in so many delish flavors. have fun with bright, juicy, and tropical starfruit .",
+      "description": "your new bff is here! star balm ® is an ultra-cushiony lip balm in so many delish flavors. have fun with bright, juicy, and tropical starfruit . star balm is clinically proven to moisturize lips in just 15 minutes and deliver long-lasting hydration for up to 8 hours.* a cozy combo of shea butter, cocoa butter, and coconut oil helps soothe chapped lips and minimize dryness . like a hug for your lips, these silky balms improve your moisture barrier with every swipe. explore the star balm collection and find your fav flavor… or two, or three, or more! *based on a clinical instrumentation study with 32 subjects",
+      "keyIngredients": [
+        "shea butter",
+        "cocoa butter",
+        "coconut oil"
+      ],
+      "price": "$6.99",
+      "url": "https://starface.world/products/star-balm-starfruit",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-starfruit-lip-balm_bda30114-5392-41a8-9e3a-31581808b04b.png?width=160"
+    },
+    {
+      "name": "super cute trio",
+      "handle": "super-cute-trio",
+      "type": "",
+      "shortDescription": "have fun caring for your skin with the super cute trio ! save 15% when you combine new star strips ® in four colorful patterns, classic hydro-star ® pimple patches, and tasty star balm® starfruit .",
+      "description": "have fun caring for your skin with the super cute trio ! save 15% when you combine new star strips ® in four colorful patterns, classic hydro-star ® pimple patches, and tasty star balm® starfruit . whether you’re trying starface for the first time or refilling your favs, the super cute trio has a lil something for everyone :) bundle contains: star strips : 8 powerful nose strips for instantly removing blackheads and unclogging pores. hydro-star refill : 32 yellow hydrocolloid pimple patches for absorbing fluid and shrinking spots in six hours.* star balm starfruit : cushiony lip balm for long-lasting hydration with a tropical starfruit flavor. quantity: 8 pore strips, 32 patches, + 1 lip balm *based on a 23-subject clinical study over 5 days",
+      "keyIngredients": [
+        "hydrocolloid"
+      ],
+      "price": "$21.22",
+      "url": "https://starface.world/products/super-cute-trio",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-super-cute-trio.png?width=160"
+    },
+    {
+      "name": "star strips®",
+      "handle": "star-strips",
+      "type": "",
+      "shortDescription": "your fav pore strips just got even cuter! star strips® have the same powerful formula you know and love, now with an extra bright look ft. four colorful designs.",
+      "description": "your fav pore strips just got even cuter! star strips® have the same powerful formula you know and love, now with an extra bright look ft. four colorful designs. star strips instantly remove blackheads and unclog pores by gently lifting away excess oil, dirt, and buildup for visibly smoother skin. a soothing combo of aloe vera and witch hazel leaves skin feeling soft, happy, and fresh. for best results, use these cuties once a week to help visibly reduce the appearance of pores after use. have fun trying a lil bit of everything when you bundle star strips with hydro-stars® and star balm® for 15% off .",
+      "keyIngredients": [
+        "aloe vera",
+        "witch hazel"
+      ],
+      "price": "$6.99",
+      "url": "https://starface.world/products/star-strips",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-star-strips-pore-clearing-nose-strips.png?width=160"
+    },
+    {
+      "name": "star treatment®",
+      "handle": "star-treatment",
+      "type": "",
+      "shortDescription": "star treatment® is a powerful 2% salicylic acid acne spot treatment that visibly shrinks pimples in 8 hours and prevents new breakouts from forming.",
+      "description": "star treatment® is a powerful 2% salicylic acid acne spot treatment that visibly shrinks pimples in 8 hours and prevents new breakouts from forming. a calming combo of niacinamide and aloe vera soothes irritation and reduces redness . this max strength spot treatment is best for blackheads, whiteheads, clogged pores, and acne-prone skin. made with a cute blue tint that quickly dries clear, star treatment is perfect for layering under any 100% hydrocolloid stars or with the rest of your skincare routine. just wait for it to dry completely before sticking on a hydro-star® to lock in effective ingredients and provide extra protection . for best results, build up to 1-3x daily use or whatever feels best for your skin. pair it with your fav invisible pimple patches and save 15% .",
+      "keyIngredients": [
+        "salicylic acid",
+        "niacinamide",
+        "aloe vera"
+      ],
+      "price": "$11.99",
+      "url": "https://starface.world/products/star-treatment",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-star-treatment-acne-spot-treatment.png?width=160"
+    },
+    {
+      "name": "star treatment® + hydro-star® clear bundle",
+      "handle": "star-treatment-hydro-star-clear-bundle",
+      "type": "",
+      "shortDescription": "your new fav breakout routine is here… have fun shrinking pimples and locking in effective ingredients when you pair new star treatment ® and hydro-star® clear .",
+      "description": "your new fav breakout routine is here… have fun shrinking pimples and locking in effective ingredients when you pair new star treatment ® and hydro-star® clear . this fast-acting acne spot treatment visibly shrinks pimples in 8 hours and prevents new breakouts from forming. layer it under clear hydrocolloid stars for extra spot protection and an invisible look. save 15% on this powerful duo for blackheads, whiteheads, clogged pores, and acne-prone skin. bundle contains: star treatment : acne spot treatment made with max strength 2% salicylic acid for rapidly clearing breakouts and niacinamide and aloe vera for calming skin. hydro-star clear : 32 invisible 100% hydrocolloid pimple patches in two sizes to help shrink big and lil spots and seal in your spot treatment.",
+      "keyIngredients": [
+        "hydrocolloid",
+        "salicylic acid",
+        "niacinamide",
+        "aloe vera"
+      ],
+      "price": "$21.23",
+      "url": "https://starface.world/products/star-treatment-hydro-star-clear-bundle",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-star-treatment-hydro-star-clear-pimple-patch-bundle.png?width=160"
+    },
+    {
+      "name": "lil party bundle",
+      "handle": "lil-party-bundle",
+      "type": "",
+      "shortDescription": "it’s like a lil party before the big party… have so much fun with the lil party bundle ! get 15% off when you bundle tiny star and hydro-stars® + big party .",
+      "description": "it’s like a lil party before the big party… have so much fun with the lil party bundle ! get 15% off when you bundle tiny star and hydro-stars® + big party . hydro-stars are clinically proven to shrink pimples in just six hours.* made with 100% hydrocolloid, these extra-cute patches help absorb gunk and reduce redness for happy skin. bundle contains: tiny star : 48 extra-small [10mm] pimple patches in six bright shades: aqua, lime, azalea, violet, yellow, and black. hydro-stars + big party : a mirrored, colorful compact filled with 32 pimple patches in four bright shades: aqua, lime, azalea, and violet. quantity: 48 tiny stars + 32 classic size stars + cute compact *based on a 23-subject clinical study over 5 days",
+      "keyIngredients": [
+        "hydrocolloid"
+      ],
+      "price": "$22.08",
+      "url": "https://starface.world/products/lil-party-bundle",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-hydro-star-multisize-lil-party-bundle.png?width=160"
+    },
+    {
+      "name": "tiny star",
+      "handle": "tiny-star",
+      "type": "",
+      "shortDescription": "have fun shrinking spots and feeling cute with 48 hydrocolloid pimple patches in an extra-small size . these 10mm-wide hydro-stars® are perfect for your tiniest spots or wearing just for fun.",
+      "description": "have fun shrinking spots and feeling cute with 48 hydrocolloid pimple patches in an extra-small size . these 10mm-wide hydro-stars® are perfect for your tiniest spots or wearing just for fun. hydro-stars are clinically proven to shrink pimples in just six hours.* with six bright colors [ aqua, lime, azalea, violet, yellow, and black ], these 100% hydrocolloid stars help absorb gunk and reduce redness while looking extra cute. super sticky and long-lasting, hydro-stars stay put without lifting or peeling. they also shield spots from outside interference and serve as a gentle reminder to avoid skin picking. keep your teeniest stars safe in a refillable big party compact when you grab the lil party bundle ! quantity: 48 stars *based on a 23-subject clinical study over 5 days",
+      "keyIngredients": [
+        "hydrocolloid"
+      ],
+      "price": "$10.99",
+      "url": "https://starface.world/products/tiny-star",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-tiny-hydro-star-patches.png?width=160"
+    },
+    {
+      "name": "star balm® unscented",
+      "handle": "star-balm-unscented",
+      "type": "",
+      "shortDescription": "your new bff is here! star balm ® unscented is a fragrance-free lip balm that's creamy, clear, and hydrating.",
+      "description": "your new bff is here! star balm ® unscented is a fragrance-free lip balm that's creamy, clear, and hydrating. star balm is clinically proven to moisturize lips in just 15 minutes and deliver long-lasting hydration for up to 8 hours.* a cozy combo of shea butter, cocoa butter, and coconut oil helps soothe chapped lips and minimize dryness . like a hug for your lips, these silky balms improve your moisture barrier with every swipe. explore the star balm collection and find your fav flavor… or two, or three, or more! *based on a clinical instrumentation study with 32 subjects",
+      "keyIngredients": [
+        "shea butter",
+        "cocoa butter",
+        "coconut oil"
+      ],
+      "price": "$6.99",
+      "url": "https://starface.world/products/star-balm-unscented",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-unscented-lip-balm_23c338f6-2ef6-4e06-b3f9-5d87228e88df.png?width=160"
+    },
+    {
+      "name": "star balm® dream berry",
+      "handle": "star-balm-dream-berry",
+      "type": "",
+      "shortDescription": "dreams do come true… your new bff is here! star balm ® is an ultra-cushiony lip balm in so many delish flavors. have fun with sweet, juicy, and bright dream berry .",
+      "description": "dreams do come true… your new bff is here! star balm ® is an ultra-cushiony lip balm in so many delish flavors. have fun with sweet, juicy, and bright dream berry . star balm is clinically proven to moisturize lips in just 15 minutes and deliver long-lasting hydration for up to 8 hours.* a cozy combo of shea butter, cocoa butter, and coconut oil helps soothe chapped lips and minimize dryness . like a hug for your lips, these silky balms improve your moisture barrier with every swipe. grab the berry sweet bundle to pair these fruity-fun balms! *based on a clinical instrumentation study with 32 subjects",
+      "keyIngredients": [
+        "shea butter",
+        "cocoa butter",
+        "coconut oil"
+      ],
+      "price": "$6.99",
+      "url": "https://starface.world/products/star-balm-dream-berry",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-dream-berry-lip-balm_0fa22388-1128-48d9-998d-4b11aa16869f.png?width=160"
+    },
+    {
+      "name": "star balm® cherry charm",
+      "handle": "star-balm-cherry-charm",
+      "type": "",
+      "shortDescription": "get ready for a cherry sweet time… your new bff is here! star balm ® is an ultra-cushiony lip balm in so many delish flavors. have fun with fruity, tart, and sweet cherry charm .",
+      "description": "get ready for a cherry sweet time… your new bff is here! star balm ® is an ultra-cushiony lip balm in so many delish flavors. have fun with fruity, tart, and sweet cherry charm . star balm is clinically proven to moisturize lips in just 15 minutes and deliver long-lasting hydration for up to 8 hours.* a cozy combo of shea butter, cocoa butter, and coconut oil helps soothe chapped lips and minimize dryness . like a hug for your lips, these silky balms improve your moisture barrier with every swipe. grab the berry sweet bundle to pair these fruity-fun balms! *based on a clinical instrumentation study with 32 subjects",
+      "keyIngredients": [
+        "shea butter",
+        "cocoa butter",
+        "coconut oil"
+      ],
+      "price": "$6.99",
+      "url": "https://starface.world/products/star-balm-cherry-charm",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-cherry-charm-lip-balm_06d69a47-dd3c-471e-b595-c0ad9fd1369f.png?width=160"
+    },
+    {
+      "name": "berry sweet bundle",
+      "handle": "berry-sweet-bundle",
+      "type": "",
+      "shortDescription": "have fun hanging with your berry cute bffs! get free shipping when you bundle two lip balms in delish, fruity flavors: cherry charm and dream berry .",
+      "description": "have fun hanging with your berry cute bffs! get free shipping when you bundle two lip balms in delish, fruity flavors: cherry charm and dream berry . star balm ® is clinically proven to moisturize lips in just 15 minutes and deliver long-lasting hydration for up to 8 hours.* a cozy combo of shea butter, cocoa butter, and coconut oil helps soothe chapped lips and minimize dryness . like a hug for your lips, these silky balms improve your moisture barrier with every swipe. bundle contains: 1x star balm cherry charm 1x star balm dream berry why pick one when you could try them both? grab the berry sweet bundle to taste the cutest duo! *based on a clinical instrumentation study with 32 subjects",
+      "keyIngredients": [
+        "shea butter",
+        "cocoa butter",
+        "coconut oil"
+      ],
+      "price": "$13.98",
+      "url": "https://starface.world/products/berry-sweet-bundle",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-berry-sweet-bundle-lip-balm.png?width=160"
+    },
+    {
+      "name": "party pack",
+      "handle": "hydro-stars-party-pack",
+      "type": "Patches",
+      "shortDescription": "have fun shrinking spots and feeling cute with 32 hydro-star® pimple patches in four bright colors: aqua , lime , azalea , and violet .",
+      "description": "have fun shrinking spots and feeling cute with 32 hydro-star® pimple patches in four bright colors: aqua , lime , azalea , and violet . hydro-stars are clinically proven to shrink pimples in just six hours.* made with 100% hydrocolloid, these bestselling patches help absorb gunk and reduce redness for happy skin. super sticky and long-lasting, hydro-stars stay put without lifting or peeling. they also shield spots from outside interference and serve as a gentle reminder to avoid skin picking. keep your stars safe in a refillable, mirrored compact for easy access. quantity: 32 stars *based on a 23-subject clinical study over 5 days",
+      "keyIngredients": [
+        "hydrocolloid"
+      ],
+      "price": "$10.99",
+      "url": "https://starface.world/products/hydro-stars-party-pack",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/party-pack-5.png?width=160"
+    },
+    {
+      "name": "pink star",
+      "handle": "hydro-star-pink",
+      "type": "",
+      "shortDescription": "have fun shrinking spots and feeling cute with 32 hydro-star® pimple patches in four pink shades: jelly bean , bubblegum , cotton candy , and fruit snack .",
+      "description": "have fun shrinking spots and feeling cute with 32 hydro-star® pimple patches in four pink shades: jelly bean , bubblegum , cotton candy , and fruit snack . made to be stored inside of your big pink compact for easy access. hydro-stars are clinically proven to shrink pimples in just six hours.* made with 100% hydrocolloid, these bestselling patches help absorb gunk and reduce redness for happy skin. super sticky and long-lasting, hydro-stars stay put without lifting or peeling. they also shield spots from outside interference and serve as a gentle reminder to avoid skin picking. have fun hanging out with all of your pink favs with the perfect pink bundle ! quantity: 32 stars *based on a 23-subject clinical study over 5 days",
+      "keyIngredients": [
+        "hydrocolloid"
+      ],
+      "price": "$10.99",
+      "url": "https://starface.world/products/hydro-star-pink",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-pink-star-hydro-star-refill.png?width=160"
+    },
+    {
+      "name": "hydro-stars® + big pink",
+      "handle": "big-pink",
+      "type": "",
+      "shortDescription": "have fun shrinking spots and feeling cute with 32 hydro-star® pimple patches inside a mirrored, pink compact. pink star comes in four pink shades: jelly bean , bubblegum , cotton candy , and fruit snack .",
+      "description": "have fun shrinking spots and feeling cute with 32 hydro-star® pimple patches inside a mirrored, pink compact. pink star comes in four pink shades: jelly bean , bubblegum , cotton candy , and fruit snack . hydro-stars are clinically proven to shrink pimples in just six hours.* made with 100% hydrocolloid, these bestselling patches help absorb gunk and reduce redness for happy skin. super sticky and long-lasting, hydro-stars stay put without lifting or peeling. they also shield spots from outside interference and serve as a gentle reminder to avoid skin picking. when you run out of stars, refill your big pink compact with a new pack of pink star [or any hydro-star cuties] for easy access. have fun hanging out with all of your pink favs with the perfect pink bundle ! quantity: 32 stars + 1 compact *based on a 23-subject clinical study over 5 days",
+      "keyIngredients": [
+        "hydrocolloid"
+      ],
+      "price": "$14.99",
+      "url": "https://starface.world/products/big-pink",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-big-pink-hydro-star-compact_206886a7-0fba-4b43-9f72-458204b7eaab.png?width=160"
+    },
+    {
+      "name": "perfect pink bundle",
+      "handle": "big-pink-bundle",
+      "type": "",
+      "shortDescription": "what could be more fun than hanging with your pink favs every day? get free shipping when you bundle hydro-stars® + big pink and pink star .",
+      "description": "what could be more fun than hanging with your pink favs every day? get free shipping when you bundle hydro-stars® + big pink and pink star . these pink cuties come in four fun shades: jelly bean , bubblegum , cotton candy , and fruit snack . bundle contains: hydro-stars® + big pink : a mirrored, pink compact filled with 32 pimple patches in four shades of pink. pink star : 32 pink pimple patches made with 100% hydrocolloid to help absorb fluid, reduce redness, and shrink spots in just six hours.* quantity: 64 stars + 1 compact *based on a 23-subject clinical study over 5 days",
+      "keyIngredients": [
+        "hydrocolloid"
+      ],
+      "price": "$25.98",
+      "url": "https://starface.world/products/big-pink-bundle",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-big-pink-hydro-star-bundle.png?width=160"
+    },
+    {
+      "name": "star wash® + salicylic acid",
+      "handle": "star-wash-salicylic-acid",
+      "type": "Skincare",
+      "shortDescription": "star wash® + salicylic acid is an oil-free face wash that helps minimize breakouts and unclog pores as you cleanse.",
+      "description": "star wash® + salicylic acid is an oil-free face wash that helps minimize breakouts and unclog pores as you cleanse. an extra powerful combo of salicylic acid, hyaluronic acid, and glycerin work together to reduce excess oil and hydrate skin . with a foaming gel lather that feels light and airy, star wash gently removes makeup, oil, and buildup. star wash adds a lil sparkle to your day with the sweetest shimmer that disappears with water. it's mica based and microplastic free. have fun trying the sal acid skincare duo for a full routine formulated for breakout-prone and sensitive skin!",
+      "keyIngredients": [
+        "salicylic acid",
+        "hyaluronic acid",
+        "glycerin"
+      ],
+      "price": "$15.99",
+      "url": "https://starface.world/products/star-wash-salicylic-acid",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-salicylic-acid-facial-cleanser.png?width=160"
+    },
+    {
+      "name": "star cream® + salicylic acid",
+      "handle": "star-cream-salicylic-acid",
+      "type": "Skincare",
+      "shortDescription": "star cream® + salicylic acid is an oil-free moisturizer that helps minimize breakouts and repair dryness for happy skin.",
+      "description": "star cream® + salicylic acid is an oil-free moisturizer that helps minimize breakouts and repair dryness for happy skin. the dreamiest combo of salicylic acid, hyaluronic acid, and niacinamide work together to unclog pores while locking in moisture . it's like a hug for your face, twice a day. star cream absorbs into skin like a cloud with a lightweight, silky feel. cool and comforting, star cream leaves skin with a fresh, dewy sheen. have fun trying the sal acid skincare duo for a full routine formulated for breakout-prone and sensitive skin!",
+      "keyIngredients": [
+        "salicylic acid",
+        "niacinamide",
+        "hyaluronic acid"
+      ],
+      "price": "$15.99",
+      "url": "https://starface.world/products/star-cream-salicylic-acid",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-salicylic-acid-moisturizer-soothe-skin.png?width=160"
+    },
+    {
+      "name": "sal acid skincare duo",
+      "handle": "sal-acid-skincare-duo",
+      "type": "Bundle",
+      "shortDescription": "have fun layering star wash ® + salicylic acid and star cream ® + salicylic acid for a complete routine. perf for when you want to help minimize breakouts and repair dryness for happy skin.",
+      "description": "have fun layering star wash ® + salicylic acid and star cream ® + salicylic acid for a complete routine. perf for when you want to help minimize breakouts and repair dryness for happy skin. get 15% off when you bundle these skincare cuties! bundle contains: s tar wash + salicylic acid (5 fl oz) : pore-clearing salicylic acid, hydrating hyaluronic acid, and soothing glycerin help unclog pores and reduce excess oil as you cleanse. a mica-based, microplastic-free shimmer disappears with water. star cream + salicylic acid (1.7 fl o z) : pore-clearing salicylic acid, hydrating hyaluronic acid, and soothing niacinamide help unclog pores and lock in moisture . absorbs into skin like a cloud and leaves a fresh, dewy sheen.",
+      "keyIngredients": [
+        "salicylic acid",
+        "niacinamide",
+        "hyaluronic acid",
+        "glycerin"
+      ],
+      "price": "$27.18",
+      "url": "https://starface.world/products/sal-acid-skincare-duo",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-salicylic-acid-skincare-duo.png?width=160"
+    },
+    {
+      "name": "bff bundle",
+      "handle": "bff-bundle-1",
+      "type": "Bundle",
+      "shortDescription": "have fun feeling cute with two hydro-star® favs! get 15% off when you bundle classic hydro-star pimple patches with hydro-star + salicylic acid .",
+      "description": "have fun feeling cute with two hydro-star® favs! get 15% off when you bundle classic hydro-star pimple patches with hydro-star + salicylic acid . bundle contains: • hydro-star refill : 32 pimple patches clinically proven to minimize breakouts in six hours* by absorbing fluid and flattening spots thanks to a 100% hydrocolloid formula. best for juicy spots and surface-level pimples! • hydro-star + salicylic acid : 32 award-winning hydrocolloid patches made with salicylic acid , a beta hydroxy acid that helps dissolve dead skin cells and unclog pores. best for clogged pores and spots that need extra care! quantity: 64 stars *based on a 23-subject clinical study over 5 days",
+      "keyIngredients": [
+        "hydrocolloid",
+        "salicylic acid"
+      ],
+      "price": "$20.38",
+      "url": "https://starface.world/products/bff-bundle-1",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/bff.png?width=160"
+    },
+    {
+      "name": "fruity balm bundle",
+      "handle": "fruity-balm-bundle",
+      "type": "Lip Balm",
+      "shortDescription": "have fun hanging with your bffs! get free shipping when you bundle three ultra-cute lip balms in delish flavors: so strawberry , coconut blast , and mango mania .",
+      "description": "have fun hanging with your bffs! get free shipping when you bundle three ultra-cute lip balms in delish flavors: so strawberry , coconut blast , and mango mania . star balm ® is clinically proven to moisturize lips in just 15 minutes and deliver long-lasting hydration for up to 8 hours.* a cozy combo of shea butter, cocoa butter, and coconut oil helps soothe chapped lips and minimize dryness . like a hug for your lips, these silky balms improve your moisture barrier with every swipe. bundle contains: 1x star balm so strawberry 1x star balm coconut blast 1x star balm mango mania grab the fruity balm bundle to soothe , hydrate , and moisturize lips! *based on a clinical instrumentation study with 32 subjects",
+      "keyIngredients": [
+        "shea butter",
+        "cocoa butter",
+        "coconut oil"
+      ],
+      "price": "$20.97",
+      "url": "https://starface.world/products/fruity-balm-bundle",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-fruity-balm-bundle-lip-balm.png?width=160"
+    },
+    {
+      "name": "star balm® mango mania",
+      "handle": "star-balm-mango-mania",
+      "type": "Lip Balm",
+      "shortDescription": "your new bff is here! star balm ® is an ultra-cushiony lip balm in so many delish flavors. have fun with fresh, sweet, and citrusy mango mania .",
+      "description": "your new bff is here! star balm ® is an ultra-cushiony lip balm in so many delish flavors. have fun with fresh, sweet, and citrusy mango mania . star balm is clinically proven to moisturize lips in just 15 minutes and deliver long-lasting hydration for up to 8 hours.* a cozy combo of shea butter, cocoa butter, and coconut oil helps soothe chapped lips and minimize dryness . like a hug for your lips, these silky balms improve your moisture barrier with every swipe. explore the star balm collection and find your fav flavor… or two, or three, or more! *based on a clinical instrumentation study with 32 subjects",
+      "keyIngredients": [
+        "shea butter",
+        "cocoa butter",
+        "coconut oil"
+      ],
+      "price": "$6.99",
+      "url": "https://starface.world/products/star-balm-mango-mania",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-mango-mania-lip-balm_d737c313-8e72-4179-a94e-cc767cd63344.png?width=160"
+    },
+    {
+      "name": "star balm® so strawberry",
+      "handle": "star-balm-so-strawberry-1",
+      "type": "Lip Balm",
+      "shortDescription": "your new bff is here! star balm ® is an ultra-cushiony lip balm in so many delish flavors. have fun with juicy, sweet, and creamy so strawberry .",
+      "description": "your new bff is here! star balm ® is an ultra-cushiony lip balm in so many delish flavors. have fun with juicy, sweet, and creamy so strawberry . star balm is clinically proven to moisturize lips in just 15 minutes and deliver long-lasting hydration for up to 8 hours.* a cozy combo of shea butter, cocoa butter, and coconut oil helps soothe chapped lips and minimize dryness . like a hug for your lips, these silky balms improve your moisture barrier with every swipe. explore the star balm collection and find your fav flavor… or two, or three, or more! *based on a clinical instrumentation study with 32 subjects",
+      "keyIngredients": [
+        "shea butter",
+        "cocoa butter",
+        "coconut oil"
+      ],
+      "price": "$6.99",
+      "url": "https://starface.world/products/star-balm-so-strawberry-1",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-so-strawberry-lip-balm_15b3f97a-e1ef-4f64-aeb4-fea4803a707e.png?width=160"
+    },
+    {
+      "name": "star balm® coconut blast",
+      "handle": "star-balm-coconut-blast-1",
+      "type": "Lip Balm",
+      "shortDescription": "your new bff is here! star balm ® is an ultra-cushiony lip balm in so many delish flavors. have fun with creamy, sweet, and refreshing coconut blast .",
+      "description": "your new bff is here! star balm ® is an ultra-cushiony lip balm in so many delish flavors. have fun with creamy, sweet, and refreshing coconut blast . star balm is clinically proven to moisturize lips in just 15 minutes and deliver long-lasting hydration for up to 8 hours.* a cozy combo of shea butter, cocoa butter, and coconut oil helps soothe chapped lips and minimize dryness . like a hug for your lips, these silky balms improve your moisture barrier with every swipe. explore the star balm collection and find your fav flavor… or two, or three, or more! *based on a clinical instrumentation study with 32 subjects",
+      "keyIngredients": [
+        "shea butter",
+        "cocoa butter",
+        "coconut oil"
+      ],
+      "price": "$6.99",
+      "url": "https://starface.world/products/star-balm-coconut-blast-1",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-coconut-blast-lip-balm_a18ba1e5-0c20-4b8b-bdc6-3f9ba7e14dd2.png?width=160"
+    },
+    {
+      "name": "double recovery bundle",
+      "handle": "double-recovery-bundle",
+      "type": "Bundle",
+      "shortDescription": "have double the fun and save 15% with two packs of hydro-star® recovery .",
+      "description": "have double the fun and save 15% with two packs of hydro-star® recovery . these sweet purple stars are packed with a powerful combo of calming aloe vera, vitamin A, and licorice root to help keep skin happy through the recovery process. bundle contains: • 2x hydro-star recovery : 32 hydrocolloid patches that help soothe , protect , and comfort skin that’s dry, flaky, or freshly picked. quantity: 64 stars",
+      "keyIngredients": [
+        "hydrocolloid",
+        "aloe vera",
+        "vitamin a",
+        "licorice root"
+      ],
+      "price": "$22.08",
+      "url": "https://starface.world/products/double-recovery-bundle",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/hydro-star-recovery-post-picking-patch-bundle.png?width=160"
+    },
+    {
+      "name": "super star bundle",
+      "handle": "super-star-bundle",
+      "type": "Bundle",
+      "shortDescription": "have fun mixing and matching your fav stars! get free shipping when you bundle classic hydro-star® pimple patches with hydro-star + salicylic aci d and hydro-star recovery .",
+      "description": "have fun mixing and matching your fav stars! get free shipping when you bundle classic hydro-star® pimple patches with hydro-star + salicylic aci d and hydro-star recovery . the perf trio for spots at every stage, whether they're surface level, freshly picked, or just need a lil extra care. bundle contains: • hydro-star refill : 32 pimple patches made with 100% hydrocolloid to help absorb fluid, reduce redness, and shrink spots in just six hours.* • hydro-star + salicylic acid : 32 award-winning hydrocolloid patches made with salicylic acid , a beta hydroxy acid that helps dissolve dead skin cells and unclog pores to visibly shrink spots. • hydro-star recovery : 32 hydrocolloid patches made with vitamin a , aloe vera , and licorice root to help comfort and restore freshly picked skin while minimizing the look of scars. quantity: 96 stars *based on a 23-subject clinical study over 5 days",
+      "keyIngredients": [
+        "hydrocolloid",
+        "salicylic acid",
+        "aloe vera",
+        "vitamin a",
+        "licorice root"
+      ],
+      "price": "$36.97",
+      "url": "https://starface.world/products/super-star-bundle",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/hydro-star-every-stage-patch-bundle_570a824d-ba64-4612-9e6b-73af48591e65.png?width=160"
+    },
+    {
+      "name": "star balm® watermelon squeeze",
+      "handle": "star-balm-watermelon-squeeze",
+      "type": "Lip Balm",
+      "shortDescription": "your new bff is here! star balm ® is an ultra-cushiony lip balm in so many delish flavors. have fun with fresh, juicy, and sweet watermelon squeeze .",
+      "description": "your new bff is here! star balm ® is an ultra-cushiony lip balm in so many delish flavors. have fun with fresh, juicy, and sweet watermelon squeeze . star balm is clinically proven to moisturize lips in just 15 minutes and deliver long-lasting hydration for up to 8 hours.* a cozy combo of shea butter, cocoa butter, and coconut oil helps soothe chapped lips and minimize dryness . like a hug for your lips, these silky balms improve your moisture barrier with every swipe. explore the star balm collection and find your fav flavor… or two, or three, or more! *based on a clinical instrumentation study with 32 subjects",
+      "keyIngredients": [
+        "shea butter",
+        "cocoa butter",
+        "coconut oil"
+      ],
+      "price": "$6.99",
+      "url": "https://starface.world/products/star-balm-watermelon-squeeze",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-watermelon-squeeze-lip-balm_d389bf71-74b9-41f1-baa8-741076651044.png?width=160"
+    },
+    {
+      "name": "star balm® magic mint",
+      "handle": "star-balm-magic-mint",
+      "type": "Lip Balm",
+      "shortDescription": "your new bff is here! star balm ® is an ultra-cushiony lip balm in so many delish flavors. have fun with fresh, sweet, and creamy magic mint .",
+      "description": "your new bff is here! star balm ® is an ultra-cushiony lip balm in so many delish flavors. have fun with fresh, sweet, and creamy magic mint . star balm is clinically proven to moisturize lips in just 15 minutes and deliver long-lasting hydration for up to 8 hours.* a cozy combo of shea butter, cocoa butter, and coconut oil helps soothe chapped lips and minimize dryness . like a hug for your lips, these silky balms improve your moisture barrier with every swipe. explore the star balm collection and find your fav flavor… or two, or three, or more! *based on a clinical instrumentation study with 32 subjects",
+      "keyIngredients": [
+        "shea butter",
+        "cocoa butter",
+        "coconut oil"
+      ],
+      "price": "$6.99",
+      "url": "https://starface.world/products/star-balm-magic-mint",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-magic-mint-lip-balm_bf117d67-5269-4ec5-a693-e36544f8e526.png?width=160"
+    },
+    {
+      "name": "star balm® very vanilla",
+      "handle": "star-balm-very-vanilla",
+      "type": "Lip Balm",
+      "shortDescription": "your new bff is here! star balm ® is an ultra-cushiony lip balm in so many delish flavors. have fun with sweet, soft, and dreamy very vanilla .",
+      "description": "your new bff is here! star balm ® is an ultra-cushiony lip balm in so many delish flavors. have fun with sweet, soft, and dreamy very vanilla . star balm is clinically proven to moisturize lips in just 15 minutes and deliver long-lasting hydration for up to 8 hours.* a cozy combo of shea butter, cocoa butter, and coconut oil helps soothe chapped lips and minimize dryness . like a hug for your lips, these silky balms improve your moisture barrier with every swipe. explore the star balm collection and find your fav flavor… or two, or three, or more! *based on a clinical instrumentation study with 32 subjects",
+      "keyIngredients": [
+        "shea butter",
+        "cocoa butter",
+        "coconut oil"
+      ],
+      "price": "$6.99",
+      "url": "https://starface.world/products/star-balm-very-vanilla",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-very-vanilla-lip-balm_e69b3c75-3c74-4fdf-91d0-82d6e1f0d880.png?width=160"
+    },
+    {
+      "name": "star balm® bundle",
+      "handle": "star-balm-bundle",
+      "type": "Bundle",
+      "shortDescription": "have fun hanging with your bffs! get free shipping when you bundle four ultra-cute lip balms in delish flavors: starfruit , very vanilla , watermelon squeeze , and magic mint .",
+      "description": "have fun hanging with your bffs! get free shipping when you bundle four ultra-cute lip balms in delish flavors: starfruit , very vanilla , watermelon squeeze , and magic mint . star balm ® is clinically proven to moisturize lips in just 15 minutes and deliver long-lasting hydration for up to 8 hours.* a cozy combo of shea butter, cocoa butter, and coconut oil helps soothe chapped lips and minimize dryness . like a hug for your lips, these silky balms improve your moisture barrier with every swipe. bundle contains: 1x star balm starfruit 1x star balm very vanilla 1x star balm watermelon squeeze 1x star balm magic mint grab the star balm bundle to soothe , hydrate , and moisturize lips! *based on a clinical instrumentation study with 32 subjects",
+      "keyIngredients": [
+        "shea butter",
+        "cocoa butter",
+        "coconut oil"
+      ],
+      "price": "$27.96",
+      "url": "https://starface.world/products/star-balm-bundle",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-star-balm-bundle-lip-balm.png?width=160"
+    },
+    {
+      "name": "hydro-star® recovery",
+      "handle": "hydro-star-recovery",
+      "type": "Patches",
+      "shortDescription": "hydro-star® recovery is a hydrocolloid patch that helps soothe and protect skin that’s dry, flaky, or freshly picked .",
+      "description": "hydro-star® recovery is a hydrocolloid patch that helps soothe and protect skin that’s dry, flaky, or freshly picked . made with vitamin a, aloe vera, and licorice root to help comfort and restore skin while minimizing the look of scars . when picking, popping, or flaking happens, put a star on your spot to keep the area protected and support skin recovery while looking cute. repeat as needed for soft and happy skin through the recovery process. keep your stars safe in a refillable, mirrored compact for easy access. quantity: 32 stars",
+      "keyIngredients": [
+        "hydrocolloid",
+        "aloe vera",
+        "vitamin a",
+        "licorice root"
+      ],
+      "price": "$12.99",
+      "url": "https://starface.world/products/hydro-star-recovery",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/RECOVERY_PLP.png?width=160"
+    },
+    {
+      "name": "hydro-star® clear",
+      "handle": "hydro-star-clear",
+      "type": "Patches",
+      "shortDescription": "hydro-star® clear is here, whether you can see them or not! have fun shrinking spots and feeling cute with 32 invisible hydro-star pimple patches in two sizes: 16 classic [14mm] and 16 big [18mm].",
+      "description": "hydro-star® clear is here, whether you can see them or not! have fun shrinking spots and feeling cute with 32 invisible hydro-star pimple patches in two sizes: 16 classic [14mm] and 16 big [18mm]. hydro-stars are clinically proven to shrink pimples in just six hours.* made with 100% hydrocolloid, these bestselling patches help absorb gunk and reduce redness for happy skin. super sticky and long-lasting, hydro-stars stay put without lifting or peeling. these flexible stars blend seamlessly into skin thanks to undetectable, rounded edges. they also shield spots from outside interference and serve as a gentle reminder to avoid skin picking. keep your stars safe in a refillable, mirrored compact for easy access. quantity: 32 stars *based on a 23-subject clinical study over 5 days",
+      "keyIngredients": [
+        "hydrocolloid"
+      ],
+      "price": "$12.99",
+      "url": "https://starface.world/products/hydro-star-clear",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/CLEAR_PLP.png?width=160"
+    },
+    {
+      "name": "earth star",
+      "handle": "earth-star",
+      "type": "Patches",
+      "shortDescription": "have fun shrinking spots and feeling cute with 32 hydro-star® pimple patches in four neutral colors: shell , clay , pebble , and moonstone .",
+      "description": "have fun shrinking spots and feeling cute with 32 hydro-star® pimple patches in four neutral colors: shell , clay , pebble , and moonstone . hydro-stars are clinically proven to shrink pimples in just six hours.* made with 100% hydrocolloid, these bestselling patches help absorb gunk and reduce redness for happy skin. super sticky and long-lasting, hydro-stars stay put without lifting or peeling. they also shield spots from outside interference and serve as a gentle reminder to avoid skin picking. keep your stars safe in a refillable, mirrored compact for easy access. quantity: 32 stars *based on a 23-subject clinical study over 5 days",
+      "keyIngredients": [
+        "hydrocolloid"
+      ],
+      "price": "$12.99",
+      "url": "https://starface.world/products/earth-star",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/earthstar.png?width=160"
+    },
+    {
+      "name": "hydro-star® + tea tree",
+      "handle": "tea-tree-hydro-stars",
+      "type": "Patches",
+      "shortDescription": "have fun shrinking spots and feeling cute with a pack of 32 hydrocolloid patches with tea tree oil . hydro-star® + tea tree helps naturally balance and soothe skin while minimizing the appearance of redness.",
+      "description": "have fun shrinking spots and feeling cute with a pack of 32 hydrocolloid patches with tea tree oil . hydro-star® + tea tree helps naturally balance and soothe skin while minimizing the appearance of redness. perfect for spots that need a lil extra love, these naturally cute stars help unclog pores by reducing excess oil and buildup without irritating skin . when combined with hydrocolloid, hydro-stars + tea tre e help absorb fluid, protect skin, and visibly shrink spots. super sticky and long-lasting, hydro-stars stay put without lifting or peeling. they also shield spots from outside interference and serve as a gentle reminder to avoid skin picking. keep your stars safe in a refillable, mirrored compact for easy access. quantity: 32 stars",
+      "keyIngredients": [
+        "hydrocolloid",
+        "tea tree oil"
+      ],
+      "price": "$12.99",
+      "url": "https://starface.world/products/tea-tree-hydro-stars",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/teatree_2788ef1e-860d-4b08-8c1b-7489bdacb4d5.png?width=160"
+    },
+    {
+      "name": "hydro-stars® + big blue",
+      "handle": "big-blue",
+      "type": "Compacts",
+      "shortDescription": "have fun shrinking spots and feeling cute with 32 award-winning hydro-star® + salicylic acid patches inside a mirrored, blue compact.",
+      "description": "have fun shrinking spots and feeling cute with 32 award-winning hydro-star® + salicylic acid patches inside a mirrored, blue compact. these pore-clearing cuties are made with hydrocolloid and salicylic acid: a beta hydroxy acid known to dissolve dead skin cells. when combined with hydrocolloid, a material that's clinically proven to absorb fluid, hydro-stars + salicylic acid help shrink and soothe spots that need extra care. super sticky and long-lasting, hydro-stars stay put without lifting or peeling. they also shield spots from outside interference and serve as a gentle reminder to avoid skin picking. when you run out of stars, refill your compact with any of your fav patches for easy access and extra fun :) quantity: 32 stars + 1 compact",
+      "keyIngredients": [
+        "hydrocolloid",
+        "salicylic acid"
+      ],
+      "price": "$16.99",
+      "url": "https://starface.world/products/big-blue",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-big-blue-hydro-star-compact.png?width=160"
+    },
+    {
+      "name": "black star",
+      "handle": "black-star",
+      "type": "Patches",
+      "shortDescription": "have fun shrinking spots and feeling cute with 32 hydro-star® pimple patches in black .",
+      "description": "have fun shrinking spots and feeling cute with 32 hydro-star® pimple patches in black . hydro-stars are clinically proven to shrink pimples in just six hours.* made with 100% hydrocolloid, these bestselling patches help absorb gunk and reduce redness for happy skin. super sticky and long-lasting, hydro-stars stay put without lifting or peeling. they also shield spots from outside interference and serve as a gentle reminder to avoid skin picking. keep your stars safe in a refillable, mirrored compact for easy access. quantity: 32 stars *based on a 23-subject clinical study over 5 days",
+      "keyIngredients": [
+        "hydrocolloid"
+      ],
+      "price": "$12.99",
+      "url": "https://starface.world/products/black-star",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/black-star-pimple-patches-5.png?width=160"
+    },
+    {
+      "name": "hydro-star® + salicylic acid",
+      "handle": "salicylic-acid-hydro-stars",
+      "type": "Patches",
+      "shortDescription": "have fun shrinking spots and feeling cute with 32 award-winning hydro-star® + salicylic acid patches, made to be stored inside of your big blue compact for easy access.",
+      "description": "have fun shrinking spots and feeling cute with 32 award-winning hydro-star® + salicylic acid patches, made to be stored inside of your big blue compact for easy access. these pore-clearing cuties are made with hydrocolloid and salicylic acid: a beta hydroxy acid known to dissolve dead skin cells. when combined with hydrocolloid, a material that's clinically proven to absorb fluid, hydro-stars + salicylic acid help shrink and soothe spots that need extra care. super sticky and long-lasting, hydro-stars stay put without lifting or peeling. they also shield spots from outside interference and serve as a gentle reminder to avoid skin picking. quantity: 32 stars",
+      "keyIngredients": [
+        "hydrocolloid",
+        "salicylic acid"
+      ],
+      "price": "$12.99",
+      "url": "https://starface.world/products/salicylic-acid-hydro-stars",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/salacid_1.png?width=160"
+    },
+    {
+      "name": "rainbow star",
+      "handle": "rainbow-hydro-stars",
+      "type": "Patches",
+      "shortDescription": "have fun shrinking spots and feeling cute with 32 hydro-star® pimple patches, made with 100% hydrocolloid, in full color . all net proceeds from rainbow stars are allocated to: the black-led movement fund in the u.s.",
+      "description": "have fun shrinking spots and feeling cute with 32 hydro-star® pimple patches, made with 100% hydrocolloid, in full color . all net proceeds from rainbow stars are allocated to: the black-led movement fund in the u.s. the hetrick-martin institute for lgbtq+ youth in the u.s. black thrive in the u.k. black women in motion in canada rainbow stars are a commitment to protecting and uplifting black lives and lgbtq+ lives, now and forever. quantity: 32 stars",
+      "keyIngredients": [
+        "hydrocolloid"
+      ],
+      "price": "$10.99",
+      "url": "https://starface.world/products/rainbow-hydro-stars",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/rainbow.png?width=160"
+    },
+    {
+      "name": "hydro-star® refill",
+      "handle": "hydro-stars-refill",
+      "type": "Patches",
+      "shortDescription": "have fun shrinking spots and feeling cute with 32 classic hydro-star® pimple patches, made to be stored inside of your big yellow compact for easy access.",
+      "description": "have fun shrinking spots and feeling cute with 32 classic hydro-star® pimple patches, made to be stored inside of your big yellow compact for easy access. hydro-stars are clinically proven to shrink pimples in just six hours.* made with 100% hydrocolloid, these bestselling patches help absorb gunk and reduce redness for happy skin. super sticky and long-lasting, hydro-stars stay put without lifting or peeling. they also shield spots from outside interference and serve as a gentle reminder to avoid skin picking. quantity: 32 stars *based on a 23-subject clinical study over 5 days",
+      "keyIngredients": [
+        "hydrocolloid"
+      ],
+      "price": "$10.99",
+      "url": "https://starface.world/products/hydro-stars-refill",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/refill.png?width=160"
+    },
+    {
+      "name": "hydro-stars® + big yellow",
+      "handle": "hydro-stars-big-yellow",
+      "type": "Compacts",
+      "shortDescription": "have fun shrinking spots and feeling cute with 32 classic hydro-star® pimple patches inside a mirrored, yellow compact.",
+      "description": "have fun shrinking spots and feeling cute with 32 classic hydro-star® pimple patches inside a mirrored, yellow compact. hydro-stars are clinically proven to shrink pimples in just six hours.* made with 100% hydrocolloid, these bestselling patches help absorb gunk and reduce redness for happy skin. super sticky and long-lasting, hydro-stars stay put without lifting or peeling. they also shield spots from outside interference and serve as a gentle reminder to avoid skin picking. when you run out of stars, refill your compact with any of your fav patches for easy access and extra fun :) quantity: 32 stars + 1 compact *based on a 23-subject clinical study over 5 days",
+      "keyIngredients": [
+        "hydrocolloid"
+      ],
+      "price": "$14.99",
+      "url": "https://starface.world/products/hydro-stars-big-yellow",
+      "image": "https://cdn.shopify.com/s/files/1/0070/8388/4615/files/starface-big-yellow-hydro-star-compact_0dfc31f3-6f2c-4678-9fa8-402851cc31de.png?width=160"
+    }
+  ]
+}
