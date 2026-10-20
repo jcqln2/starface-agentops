@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { Analytics } from "@vercel/analytics/next";
 import { Avatar } from "../components/ui";
 import "./globals.css";
 
@@ -25,6 +26,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <footer className="py-6 text-center text-xs opacity-60">
           unofficial portfolio demo by jacqueline robinson · not affiliated with starface
         </footer>
+        <Analytics />
       </body>
     </html>
   );
