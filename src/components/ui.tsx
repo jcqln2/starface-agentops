@@ -22,6 +22,14 @@ export const AGENT_LABEL: Record<AgentName, string> = {
   escalation: "human handoff",
 };
 
+/** Customer-facing names for the ops dashboard. Internal agent keys stay the same. */
+export const DASHBOARD_AGENT_LABEL: Record<AgentName, string> = {
+  router: "Sorting step",
+  product: "Product assistant",
+  support: "Support assistant",
+  escalation: "Human team",
+};
+
 const VERDICT_STYLE: Record<Verdict, string> = {
   passed: "bg-emerald-100 text-emerald-800",
   rewritten: "bg-amber-100 text-amber-800",
@@ -51,6 +59,12 @@ const SOURCE_STYLE: Record<EventSource, string> = {
   simulated: "bg-violet-100 text-violet-800 border border-dashed border-violet-400",
 };
 
+const SOURCE_LABEL: Record<EventSource, string> = {
+  chat: "chat",
+  redteam: "safety test",
+  simulated: "sample",
+};
+
 export function SourceBadge({ source }: { source: EventSource }) {
-  return <span className={`rounded-full px-2 py-0.5 text-[11px] font-semibold ${SOURCE_STYLE[source]}`}>{source}</span>;
+  return <span className={`rounded-full px-2 py-0.5 text-[11px] font-semibold ${SOURCE_STYLE[source]}`}>{SOURCE_LABEL[source]}</span>;
 }
