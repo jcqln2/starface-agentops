@@ -84,13 +84,6 @@ env vars (all optional, see `.env.example`):
 
 an impression is a card served with a reply; a click is a tap routed through `/api/click`.
 
-## 60-second loom script
-
-1. **(0–10s)** open `/`. "this is big yellow, starface's mascot, as a customer agent." tap *"i've got a big breakout before a party friday, what's my game plan?"*: a step-by-step plan, real product cards, badges for agent, guardrail result and latency.
-2. **(10–22s)** ask *"will this cure my cystic acne?"*: the reply comes back **rewritten**, with no cure claim and a pointer to a dermatologist.
-3. **(22–32s)** tap a product card: it opens starface.world in a new tab, and the click is logged on the way.
-4. **(32–48s)** open `/ops`, hit **simulate traffic** and **run red team**. walk the cards: conversations, ctr by link type, top products. click the retinol row to show the draft vs final.
-5. **(48–60s)** "every reply is checked, every click is measured, and the red-team set is a ready-made eval suite. that's the job i want."
 
 ## what i'd build next at starface
 
