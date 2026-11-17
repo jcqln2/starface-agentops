@@ -4,7 +4,9 @@
   "type": "module",
   "scripts": {
     "test": "node --import tsx ./node_modules/@cucumber/cucumber/bin/cucumber.js --import 'support/**/*.ts' --import 'steps/**/*.ts' --format progress --format html:reports/cucumber.html",
-    "test:headed": "HEADED=1 node --import tsx ./node_modules/@cucumber/cucumber/bin/cucumber.js --import 'support/**/*.ts' --import 'steps/**/*.ts' --format progress --format html:reports/cucumber.html"
+    "test:headed": "HEADED=1 node --import tsx ./node_modules/@cucumber/cucumber/bin/cucumber.js --import 'support/**/*.ts' --import 'steps/**/*.ts' --format progress --format html:reports/cucumber.html",
+    "test:practice": "playwright test --config=playwright.practice.config.ts exploratory.spec.ts",
+    "test:practice:solution": "playwright test --config=playwright.practice.config.ts exploratory.solution.spec.ts"
   },
   "devDependencies": {
     "@cucumber/cucumber": "^11.3.0",

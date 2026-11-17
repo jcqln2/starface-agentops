@@ -10,6 +10,8 @@
     "test": "vitest run",
     "test:bdd": "npm test --prefix bdd",
     "test:headed": "npm run test:headed --prefix bdd",
+    "test:practice": "npm run test:practice --prefix bdd",
+    "test:practice:solution": "npm run test:practice:solution --prefix bdd",
     "catalog": "node scripts/fetch-catalog.mjs",
     "redteam": "node scripts/redteam.mjs"
   },
